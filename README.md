@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width: 40px; height: 30px;">
 </div>
 
-	##
+  ##
 
 <div>
 	<a href="https://twitter.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300acee ?style=for-the-badge&logo=twitter&logoColor=white"></a>
