@@ -1,4 +1,4 @@
-## Hi there 👋, I'm João Paulo, known as Hayato.
+## Hi there 👋, my name is João Paulo, better known as Hayato, programmer and passionate about the universe and science.
 
 <!--
 **hayatocode-jp/hayatocode-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
