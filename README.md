@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" style="width: 40px; height: 30px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" style="width: 40px; height: 30px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.IO" style="width: 40px; height: 30px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="discord.js" style="width: 40px; height: 30px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript" style="width: 40px; height: 30px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" style="width: 40px; height: 30px;">
 	<br>
@@ -41,6 +42,8 @@ Here are some ideas to get you started:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" style="width: 40px; height: 30px;">
 	<br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" style="width: 40px; height: 30px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" title="Bulma" style="width: 40px; height: 30px;">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" style="width: 40px; height: 30px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" style="width: 40px; height: 30px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" style="width: 40px; height: 30px;">
 </div>
