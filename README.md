@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" style="width: 40px; height: 30px;">
 </div>
 
-  ##
-
 <div style="display: inline_block"><br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" style="width: 40px; height: 30px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" style="width: 40px; height: 30px;">
@@ -54,14 +52,10 @@ Here are some ideas to get you started:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" title="Composer" style="width: 40px; height: 30px;">
 </div>
 
-  ##
-
 <div style="display: inline_block"><br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" style="width: 40px; height: 30px;">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" style="width: 40px; height: 30px;">
 </div>
-
-  ##
 
 <div style="display: inline_block"><br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" style="width: 40px; height: 30px;">
