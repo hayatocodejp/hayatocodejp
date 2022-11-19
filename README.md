@@ -73,5 +73,5 @@ Here are some ideas to get you started:
 	<!--<a href="https://discordapp.com/138083439197945856" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 	<a href="mailto:hayatocode.jp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>-->
 	<a href="https://gitlab.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/GitLab-303030?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-	<a href="https://github.com/hayatocode-jp" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E2327?style=for-the-badge&logo=github&logoColor=white"></a>
+	<a href="https://github.com/hayatocodejp" target="_blank"><img src="https://img.shields.io/badge/GitHub-1E2327?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
