@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is João Paulo, better known as Hayato, programmer and passionate about the universe and science.
 
-### Full Stack Developer Freelancer
+### Software Engineer | Full Stack Developer Freelancer
 
 <div style="display: inline_block"><br>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" style="width: 40px; height: 30px;">
