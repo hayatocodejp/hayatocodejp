@@ -1,12 +1,12 @@
-<p align="center">
+<div align="center">
 	My name is João Paulo, better known as Hayato, programmer and passionate about the universe and science.<br />
 	Senior Software Engineer | Freelancer Developer
-</p>
+</div>
 
 <br />
 
 <div>
-	<a href="https://twitter.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=x&logoColor=white"></a>
+	<a href="https://twitter.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=x&logoColor=white"></a>
 	<a href="https://instagram.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	<a href="https://linkedin.com/in/hayatocode" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
