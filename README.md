@@ -15,7 +15,7 @@
 
 #### Skills
 ![](https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF)
-![](https://img.shields.io/badge/Adonisjs-7159C1?style=flat&logoColor=white&logo=Adonisjs)
+![](https://img.shields.io/badge/AdonisJS-7159C1?style=flat&logoColor=white&logo=Adonisjs)
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-2862E9?style=flat&logo=CSS3&logoColor=white)
 
