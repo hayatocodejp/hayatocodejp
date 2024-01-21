@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Hono-FFFFFF?&style=flat&logo=hono)
 ![](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat&logo=adonisjs)
 ![](https://img.shields.io/badge/Laravel-FFFFFF?style=flat&logo=laravel)
+![](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/daisyUI-1AD1A5?style=flat&logo=daisyui)
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=white)
 
@@ -46,5 +48,6 @@
 
 #### #Learning
 
+![](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin)
 ![](https://img.shields.io/badge/Java-E06C00?style=flat&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
