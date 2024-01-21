@@ -12,8 +12,8 @@
 <br />
 
 #### #Stacks
-![](https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular)
-![](https://img.shields.io/badge/Next.js-000000?&style=flat&logo=next.js&logoColor=FFF)
+![](https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=000000)
+![](https://img.shields.io/badge/Next.js-000000?&style=flat&logo=next.js&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/AdonisJS-7159C1?style=flat&logo=Adonisjs&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-2862E9?style=flat&logo=CSS3&logoColor=white)
