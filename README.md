@@ -23,5 +23,5 @@
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logoColor=white&logo=MySQL)
 
 #### #Learning
-![](https://img.shields.io/badge/Java-F74141?style=flat&logo=java)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
