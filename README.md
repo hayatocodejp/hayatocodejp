@@ -6,9 +6,9 @@
 <br />
 
 <div>
-	<a href="https://twitter.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=x&logoColor=white"></a>
-	<a href="https://instagram.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
-	<a href="https://linkedin.com/in/hayatocode" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://twitter.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/@hayatocode-00ACEE?style=for-the-badge&logo=x&logoColor=white"></a>
+	<a href="https://instagram.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/@hayatocode-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+	<a href="https://linkedin.com/in/hayatocode" target="_blank"><img src="https://img.shields.io/badge/João Paulo-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 #### #Stacks
