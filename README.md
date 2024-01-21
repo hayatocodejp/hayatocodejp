@@ -11,7 +11,7 @@
 
 <br />
 
-#### #Skills
+#### #Stacks
 ![](https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF)
 ![](https://img.shields.io/badge/AdonisJS-7159C1?style=flat&logo=Adonisjs&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
