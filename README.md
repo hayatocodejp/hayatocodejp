@@ -6,7 +6,7 @@
 <br />
 
 <div>
-	<a href="https://twitter.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
+	<a href="https://twitter.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=x&logoColor=white"></a>
 	<a href="https://instagram.com/hayatocode" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
 	<a href="https://linkedin.com/in/hayatocode" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
@@ -14,21 +14,26 @@
 #### #Stacks
 
 ![](https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red)
-![](https://img.shields.io/badge/Next.js-000000?&style=flat&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Hono-orange?&style=flat&logo=hono&logoColor=white)
-![](https://img.shields.io/badge/Socket.IO-FFFFFF?style=flat&logo=socket.io&logoColor=black)
-![](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat&logo=adonisjs&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?&style=flat&logo=next.js)
+![](https://img.shields.io/badge/Hono-white?&style=flat&logo=hono)
+![](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat&logo=adonisjs)
+![](https://img.shields.io/badge/Laravel-fff?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=white)
 
-![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=php&logoColor=white)
-
+![](https://img.shields.io/badge/Socket.IO-FFFFFF?style=flat&logo=socket.io&logoColor=black)
+![](https://img.shields.io/badge/Zod-274D82?style=flat&logo=zod)
 ![](https://img.shields.io/badge/Prisma-FFFFFF?style=flat&logo=prisma&logoColor=0C344B)
+
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F0DC4E?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Android%20-3BD481?style=flat&logo=android&logoColor=white)
+
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-43A2DC?style=flat&logo=sqlite&logoColor=003B57)
 
-![](https://img.shields.io/badge/CloudFlare-FFFFFF?style=flat&logo=cloudflare&logoColor=orange)
+![](https://img.shields.io/badge/CloudFlare-FFFFFF?style=flat&logo=cloudflare)
 ![](https://img.shields.io/badge/PlanetScale-FFFFFF?style=flat&logo=planetscale&logoColor=black)
 
 #### #Learning
