@@ -13,7 +13,7 @@
 
 #### #Stacks
 
-<a href="https://hayato.dev.br"><img src="https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red"></a>
+<a href="https://hayato.dev.br" target="_blank"><img src="https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red"></a>
 <img src="https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red">
 
 ![](https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red)
