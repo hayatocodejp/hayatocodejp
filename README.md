@@ -13,11 +13,11 @@
 
 #### #Stacks
 
-![](https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red)
+![](https://img.shields.io/badge/Angular-DC0434?&style=flat&logo=angular)
 ![](https://img.shields.io/badge/Next.js-000000?&style=flat&logo=next.js)
-![](https://img.shields.io/badge/Hono-white?&style=flat&logo=hono)
+![](https://img.shields.io/badge/Hono-FFFFFF?&style=flat&logo=hono)
 ![](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat&logo=adonisjs)
-![](https://img.shields.io/badge/Laravel-fff?style=flat&logo=laravel)
+![](https://img.shields.io/badge/Laravel-FFFFFF?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=white)
 
