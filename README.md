@@ -13,14 +13,14 @@
 
 #### #Skills
 ![](https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF)
-![](https://img.shields.io/badge/AdonisJS-7159C1?style=flat&logoColor=white&logo=Adonisjs)
+![](https://img.shields.io/badge/AdonisJS-7159C1?style=flat&logo=Adonisjs&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-2862E9?style=flat&logo=CSS3&logoColor=white)
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=PHP&logoColor=white)
 
-![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logoColor=white&logo=MySQL)
+![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logo=MySQL&logoColor=white)
 
 #### #Learning
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
