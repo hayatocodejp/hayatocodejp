@@ -35,6 +35,7 @@
 ![](https://img.shields.io/badge/CloudFlare-FFFFFF?style=flat&logo=cloudflare)
 ![](https://img.shields.io/badge/PlanetScale-FFFFFF?style=flat&logo=planetscale&logoColor=black)
 
+![](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos)
 ![](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0074CD?style=flat&logo=windows)
 ![](https://img.shields.io/badge/Android-3BD481?style=flat&logo=android&logoColor=white)
