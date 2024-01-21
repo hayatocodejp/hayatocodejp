@@ -13,9 +13,6 @@
 
 #### #Stacks
 
-<a href="https://hayato.dev.br" target="_blank"><img src="https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red"></a>
-<img src="https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red">
-
 ![](https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red)
 ![](https://img.shields.io/badge/Next.js-000000?&style=flat&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Hono-orange?&style=flat&logo=hono&logoColor=white)
@@ -27,7 +24,7 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=php&logoColor=white)
 
-![](https://img.shields.io/badge/Prisma-FFFFFF?style=flat&logo=prisma&logoColor=black)
+![](https://img.shields.io/badge/Prisma-FFFFFF?style=flat&logo=prisma&logoColor=0C344B)
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-43A2DC?style=flat&logo=sqlite&logoColor=003B57)
 
@@ -36,5 +33,5 @@
 
 #### #Learning
 
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Java-E06C00?style=flat&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
