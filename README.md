@@ -13,7 +13,7 @@
 
 #### #Stacks
 
-![](https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red)
+![](https://img.shields.io/badge/Angular-FFFFFF?&style=flat&logo=angular&logoColor=red&link=https%3A%2F%2Fhayato.dev.br)
 ![](https://img.shields.io/badge/Next.js-000000?&style=flat&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Hono-orange?&style=flat&logo=hono&logoColor=white)
 ![](https://img.shields.io/badge/Socket.IO-FFFFFF?style=flat&logo=socket.io&logoColor=black)
