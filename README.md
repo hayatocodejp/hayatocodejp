@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Laravel-FFFFFF?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/daisyUI-1AD1A5?style=flat&logo=daisyui)
+![](https://img.shields.io/badge/Bootstrap-6528E0?style=flat&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=white)
 
