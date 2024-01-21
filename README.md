@@ -27,7 +27,7 @@
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F0DC4E?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=white)
 
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-43A2DC?style=flat&logo=sqlite&logoColor=003B57)
