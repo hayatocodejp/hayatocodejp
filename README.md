@@ -25,8 +25,13 @@
 ![](https://img.shields.io/badge/Zod-274D82?style=flat&logo=zod)
 ![](https://img.shields.io/badge/Prisma-FFFFFF?style=flat&logo=prisma&logoColor=0C344B)
 
+![](https://img.shields.io/badge/Expo-11181C?style=flat&logo=expo)
+![](https://img.shields.io/badge/React_Native-000000?style=flat&logo=react)
+![](https://img.shields.io/badge/Android-3BD481?style=flat&logo=android&logoColor=white)
+
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F0DC4E?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/PHP-7377AD?style=flat&logo=php&logoColor=white)
 
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logo=mysql&logoColor=white)
@@ -38,7 +43,6 @@
 ![](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos)
 ![](https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0074CD?style=flat&logo=windows)
-![](https://img.shields.io/badge/Android-3BD481?style=flat&logo=android&logoColor=white)
 
 #### #Learning
 
